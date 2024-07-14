@@ -1,6 +1,6 @@
 # cigarpage-scrapper
 
-This is a Python script that scrapes information about cigars from specific URLs, processes the data, and analyzes the sales and prices. 
+This is a Python script that scrapes information about cigars from specific cigarpage.com URLs, processes the data, and analyzes the sales and prices. 
 
 
 ## Installation
