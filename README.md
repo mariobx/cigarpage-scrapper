@@ -17,9 +17,6 @@ This is a Python script that scrapes information about cigars from specific URLs
 3. **Run The Script**:
    ```bash
    python3 cigarbot.py
-
-
-
 ### Example Table
 
 ```bash
